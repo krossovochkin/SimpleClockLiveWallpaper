@@ -4,4 +4,4 @@ This is the simple implementation of live wallpaper containing clock with curren
 Changing home screen affects small clock rotation as like we move clock with home screen itself.
 
 
-![Screenshot](https://raw2.github.com/krossovochkin/SimpleClockLiveWallpaper/master/screenshots/screenshot.png)
+![Screenshot](/screenshots/screenshot.png)
